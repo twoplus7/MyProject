@@ -19,7 +19,7 @@ public class JwtAuthServiceApp implements CommandLineRunner {
 
   @Autowired
   UserService userService;
-
+  //TESts
   public static void main(String[] args) {
     SpringApplication.run(JwtAuthServiceApp.class, args);
   }
